@@ -1,1 +1,1 @@
-print('TEST_FROM_NOTEPAD_5')
+print('TEST_FROM_NOTEPAD_6')
