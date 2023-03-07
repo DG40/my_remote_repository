@@ -39,15 +39,14 @@ import time
 class Person:
     """This class represents a person.
 
-	Characteristics:
-	- name			real name of the person
-	- id			unique ID to be distinguished in a dictionnary
-	- attr			attributes (e.g. gender, birth date...)
-	- households	list of households this person belongs to
-	- follow_kids	boolean to tell the algorithm to display this person's
-					descendent or not
-
-	"""
+    Characteristics:
+    - name			real name of the person
+    - id			unique ID to be distinguished in a dictionnary
+    - attr			attributes (e.g. gender, birth date...)
+    - households	list of households this person belongs to
+    - follow_kids	boolean to tell the algorithm to display this person's
+                    descendent or not
+    """
 
     def __init__(self, desc):
         self.attr = {}
@@ -106,10 +105,10 @@ class Person:
 class Household:
     """This class represents a household, i.e. a union of two person.
 
-	Those two persons are listed in 'parents'. If they have children, they are
-	listed in 'kids'.
+    Those two persons are listed in 'parents'. If they have children, they are
+    listed in 'kids'.
 
-	"""
+    """
 
     def __init__(self):
         self.parents = []
@@ -130,10 +129,10 @@ class Household:
 class Family:
     """Represents the whole family.
 
-	'everybody' contains all persons, indexed by their unique id
-	'households' is the list of all unions (with or without children)
+    'everybody' contains all persons, indexed by their unique id
+    'households' is the list of all unions (with or without children)
 
-	"""
+    """
 
     everybody = {}
     households = []
@@ -142,9 +141,9 @@ class Family:
 
     def add_person(self, string):
         """Adds a person to self.everybody, or update his/her info if this
-		person already exists.
+        person already exists.
 
-		"""
+        """
         p = Person(string)
         key = p.id
 
@@ -157,9 +156,9 @@ class Family:
 
     def add_household(self, h):
         """Adds a union (household) to self.households, and updates the
-		family members infos about this union.
+        family members infos about this union.
 
-		"""
+        """
         if len(h.parents) != 2:
             print('error: number of parents != 2')
             return
@@ -174,7 +173,7 @@ class Family:
     def find_person(self, name):
         """Tries to find a person matching the 'name' argument.
 
-		"""
+        """
         # First, search in ids
         if name in self.everybody:
             return self.everybody[name]
