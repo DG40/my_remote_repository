@@ -1,0 +1,16 @@
+Grachev Alexander (id=111, M)
+Gracheva Galina (id=112, F)
+	Grachev Gennadiy (id=11, M, birthday=1971-06-05, deathday=2021-10-27)
+
+Almosov Nikolay (id=121, M)
+Almosova Nina (id=122, F)
+	Almosova Olga(id=12, F, birthday=1972-01-05)
+
+Grachev Gennadiy (id=11)
+Almosova Olga (id=12)
+	Grachev Dmitry (id=1, M, birthday=1995-08-17)
+
+Grachev Dmitry (id=1)
+Yudina Daria (id=2, F, birthday=1993-10-10)
+	Grachev Lev (id=0, M, birthday=2025-05-14)
+
