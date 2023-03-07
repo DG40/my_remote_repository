@@ -1,0 +1,12 @@
+# This file is an example to show how to format a family.
+
+# Two lines represent an union:
+Grachev Gennadiy (M, birthday=1971-06-05, deathday=2021-10-27)
+Almosova Olga (F, birthday=1972-01-05)
+# Indented lines after the union represent children
+	Grachev Dmitry (id=Dmitry1995, M, birthday=1995-08-17)
+
+# Another union (2 parents + 1 children), father is one of the previous union's children:
+Grachev Dmitry (id=Dmitry1995)
+Yudina Daria (F, birthday=1993-10-10)
+	Grachev Lev (M, birthday=2025-05-14)
