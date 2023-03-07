@@ -38,7 +38,6 @@ import time
 
 class Person:
     """This class represents a person.
-
     Characteristics:
     - name			real name of the person
     - id			unique ID to be distinguished in a dictionnary
@@ -137,7 +136,7 @@ class Family:
     everybody = {}
     households = []
 
-    invisible = '[shape=circle,label="",height=0.01,width=0.01]';
+    invisible = '[shape=circle,label="",height=0.01,width=0.01]'
 
     def add_person(self, string):
         """Adds a person to self.everybody, or update his/her info if this

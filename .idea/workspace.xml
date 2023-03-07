@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="af6a6d2a-41de-4474-9bf1-2bf49cea5cc3" name="Changes" comment="smth 6">
+    <list default="true" id="af6a6d2a-41de-4474-9bf1-2bf49cea5cc3" name="Changes" comment="Merge remote-tracking branch 'my_remote_repository/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Pedigree/GrachevFamily.png&#10;#&#9;Pedigree/GrachevFamily.txt">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pedigree/GrachevFamily.png" beforeDir="false" afterPath="$PROJECT_DIR$/Pedigree/GrachevFamily.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pedigree/GrachevFamily.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Pedigree/GrachevFamily.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Pedigree/familytreemaker.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pedigree/familytreemaker.py" afterDir="false" />
     </list>
@@ -21,7 +20,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Grachev/Documents/Git_Extensions/my_local_repository/Pedigree"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Grachev/Documents/Git_Extensions/my_local_repository/Pedigree&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Grachev\Documents\Git_Extensions\my_local_repository\Pedigree" />
@@ -72,7 +70,28 @@
       <option name="project" value="LOCAL" />
       <updated>1678188328719</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="smth 6">
+      <created>1678197792231</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678197792231</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Merge remote-tracking branch 'my_remote_repository/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Pedigree/GrachevFamily.png&#10;#&#9;Pedigree/GrachevFamily.txt">
+      <created>1678197855582</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678197855582</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Merge remote-tracking branch 'my_remote_repository/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Pedigree/GrachevFamily.png&#10;#&#9;Pedigree/GrachevFamily.txt">
+      <created>1678197939431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678197939431</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,6 +110,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="smth 6" />
-    <option name="LAST_COMMIT_MESSAGE" value="smth 6" />
+    <MESSAGE value="Merge remote-tracking branch 'my_remote_repository/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Pedigree/GrachevFamily.png&#10;#&#9;Pedigree/GrachevFamily.txt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'my_remote_repository/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml&#10;#&#9;Pedigree/GrachevFamily.png&#10;#&#9;Pedigree/GrachevFamily.txt" />
   </component>
 </project>
