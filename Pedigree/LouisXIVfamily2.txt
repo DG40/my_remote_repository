@@ -1,0 +1,12 @@
+# This file is an example to show how to format a family.
+
+# Two lines represent an union:
+Louis XIV (M, birthday=1638-09-05, deathday=1715-09-01)
+Marie-Therese d'Autriche (F)
+# Indented lines after the union represent children
+	Louis de France (id=Louis1661, M, birthday=1661-11-01, deathday=1711-04-14)
+
+# Another union (2 parents + 1 children), father is one the previous union's children:
+Louis de France (id=Louis1661)
+Marie Anne\nChristine\nde Baviere (F)
+	Philippe (M, birthday=1683, deathday=1746, surname=roi d'Espagne\nsous le nom de\nPhilippe V)
